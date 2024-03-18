@@ -1,3 +1,5 @@
+# Weather Dashboard
+
 This is a real-time dynamically updated Weatherboard Dashboard that will display a 5-Day Forecast. 
 
 ![image](https://github.com/mohanad-saqr/Weather-Dashboard/assets/148038406/74b38063-f01b-4c04-ad85-5b999d7abf42)
